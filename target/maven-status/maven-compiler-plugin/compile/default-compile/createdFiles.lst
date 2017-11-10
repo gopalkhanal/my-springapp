@@ -1,0 +1,11 @@
+com\springboot\rest\config\SampleRestConfig.class
+com\springboot\rest\data\CustomerData.class
+com\springboot\rest\entity\CustomerEntity.class
+com\springboot\rest\services\CustomerServiceInMemoryImpl.class
+com\springboot\rest\services\CustomerService.class
+com\springboot\rest\CustomerSearchResults.class
+com\springboot\rest\services\CustomerServiceJpaImplementation.class
+com\springboot\rest\config\SampleApplication.class
+com\springboot\rest\CustomerRest.class
+com\springboot\rest\HelloWorldRest.class
+com\springboot\rest\services\CustomerMapper.class
